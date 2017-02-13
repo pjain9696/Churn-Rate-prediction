@@ -1,1 +1,2 @@
-"# Churn-Rate-prediction" 
+This is a compilation of data by a company experiencing a high attrition rate of customers in its ISP segment that is eroding its revenue base.
+A random sample of 9966 active customers as of March 2015 end was drawn from database. Their historical data of 3 months has been provided with the information such as Use Pattern, Payments, Default, Call Centre Information and etc. For the modeling phase, churns in next 2 months have been given with their churn date. For Validation , a random sample of 4986 active customers as of July 2015 end has been given with their historical 3 months information same as of modeling phase.
